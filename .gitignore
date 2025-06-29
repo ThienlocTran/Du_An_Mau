@@ -1,0 +1,27 @@
+*jdk
+# JDK related files and directories
+jdk*/
+jdk-*
+jre*/
+jre-*
+*.jdk
+*.jre
+
+# Java Development Kit specific
+jdk/
+jre/
+java/
+javac
+java.exe
+javac.exe
+
+# JDK installation directories
+Program Files/Java/
+Program Files (x86)/Java/
+/usr/lib/jvm/
+/usr/java/
+
+# JDK environment files
+JAVA_HOME
+JRE_HOME
+compile_errors.txt
